@@ -78,7 +78,7 @@ export default function Input(props) {
   };
 
   return (
-    <div className="flex flex-row items-center justify-between border-2 border-zinc-500 rounded-sm p-1">
+    <div className="flex flex-row items-center justify-between border-2 border-zinc-500 rounded-xl p-1">
       <input
         type="password"
         className="ring-0 border-0 shadow-none focus:shadow-none focus:outline-none focus:ring-0 focus:border-0 text-xl tracking-wider hidden"
