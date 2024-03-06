@@ -1,8 +1,4 @@
 
-I see, you want a README for a custom component instead. Let's adjust that. 
-
----
-
 # React Password Revealer Component
 
 The React Password Revealer Component is a customizable and user-friendly input field that allows users to reveal or hide the entered password. It is developed using React.js, Tailwind CSS, and GSAP (GreenSock Animation Platform) for smooth animations.
